@@ -13,3 +13,6 @@ This makes UserAssist keys particularly useful for understanding which applicati
 
 - UserAssist keys record **GUI program usage** to power features like the Start Menu’s *Most Frequently Used* list.
 - They **do not** include non-GUI or silent/background programs.
+
+
+Once ran you will get a .CSV file, which then you can use TimeLine explorer to view the information.
